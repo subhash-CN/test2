@@ -4,6 +4,7 @@ fn main() {
 
     if { true } { /* ... */ }
     
+    
      if x != y {
          println!("Success!");
      }
